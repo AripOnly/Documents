@@ -309,21 +309,21 @@ Pull Request / Merge
 
   Perintah      Fungsi
   ------------- -------------------------------
-  git init      Membuat repository
-  git clone     Mengunduh repository
-  git status    Melihat status
-  git add       Menambahkan file ke staging
-  git commit    Menyimpan perubahan
-  git log       Riwayat commit
-  git diff      Melihat perubahan
-  git branch    Mengelola branch
-  git switch    Pindah branch
-  git merge     Menggabungkan branch
-  git remote    Mengelola remote
-  git push      Mengirim commit
-  git pull      Mengambil perubahan terbaru
-  git fetch     Mengambil update tanpa merge
-  git restore   Membatalkan perubahan
-  git reset     Reset commit
-  git stash     Menyimpan perubahan sementara
-  git tag       Memberi versi rilis
+  |git init|      Membuat repository|
+  |git clone|     Mengunduh repository|
+  |git status|    Melihat status|
+  |git add|       Menambahkan file ke staging|
+  |git commit|    Menyimpan perubahan|
+  |git log|       Riwayat commit|
+  |git diff|      Melihat perubahan|
+  |git branch|    Mengelola branch|
+  |git switch|    Pindah branch|
+  |git merge|     Menggabungkan branch|
+  |git remote|    Mengelola remote|
+  |git push|      Mengirim commit|
+  |git pull|      Mengambil perubahan terbaru|
+  |git fetch|     Mengambil update tanpa merge|
+  |git restore|   Membatalkan perubahan|
+  |git reset|     Reset commit|
+  |git stash|     Menyimpan perubahan sementara|
+  |git tag|       Memberi versi rilis|
